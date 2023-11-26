@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/thedath/react-lib-test/compare/v1.1.0...v1.2.0) (2023-11-26)
+
+
+### Features
+
+* **test 5:** test 5 ([557fa77](https://github.com/thedath/react-lib-test/commit/557fa7711c367387bb4e4affb6bd900523364005))
+
 ## [1.1.0](https://github.com/thedath/react-lib-test/compare/v1.0.0...v1.1.0) (2023-11-26)
 
 
