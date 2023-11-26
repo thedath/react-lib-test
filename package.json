@@ -1,5 +1,5 @@
 {
-  "name": "react-lib-starter",
+  "name": "react-lib-starter-thedath",
   "private": false,
   "version": "0.0.0",
   "type": "module",
@@ -68,8 +68,8 @@
     }
   },
   "license": "MIT",
-  "homepage": "https://github.com/bytemebaby/react-lib-starter#readme",
+  "homepage": "https://github.com/thedath/react-lib-test#readme",
   "author": {
-    "name": "ByteMeBaby"
+    "name": "thedath"
   }
 }
